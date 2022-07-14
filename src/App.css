@@ -37,7 +37,6 @@ body{
   background-repeat: no-repeat;
   font-family: 'Josefin Sans', sans-serif;
   background-color: var(--body-background-color);
-  height: 100vh;
 }
 .root-dark{
   display: flex;
@@ -48,16 +47,6 @@ body{
   font-family: 'Josefin Sans', sans-serif;
   background-color: var(--body-background-color-light);
 }
-/* #root{
-  display: flex;
-  justify-content: center;
-  background-image: var(--top-image);
-  background-size: 100% 25%;
-  background-repeat: no-repeat;
-  font-family: 'Josefin Sans', sans-serif;
-  background-color: var(--body-background-color);
-  height: 100vh;
-} */
 .main{
   display: flex;
   flex-direction: column;
@@ -71,10 +60,7 @@ body{
   flex-direction: row;
   align-items: center;
   justify-content:space-between;
-  /* margin: 4% 25%; */
-  /* padding: 0 1%; */
   width: 100%;
-  /* background-color: red; */
 }
 .top-bar__logo{
   color: var(--font-color);
@@ -170,11 +156,6 @@ body{
   margin: 0 auto;
   padding: 10px 10px;
 }
-/* .theList{
- 
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
-} */
 .bottom-light{
   display: flex;
   align-items: center;

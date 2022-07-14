@@ -149,7 +149,6 @@ function App() {
     setIsCompleted(clearComplete)
     setTodos(clearCompleted)
   }
-console.log();
 
   const list = (value ) => value.map ( (t, index)=> {   
     return (
@@ -239,8 +238,8 @@ console.log();
       <div className="footer">
           <div className="info">Drag and drop to reorder list</div>
           <div className={theme===true ? 'attribution-light':'attribution-dark'}>
-          Challenge by <a href="https://www.frontendmentor.io?ref=challenge" aria-label='Frontend Mentor' rel='noopener' target="_blank">Frontend Mentor</a>. 
-          Coded by <a href="https://github.com/Ezmad-Ze/todo_app" aria-label='Frontend Mentor' rel='noopener' target="_blank">Ezmad_Ze</a>.
+          Challenge by <a href="https://www.frontendmentor.io?ref=challenge" aria-label='Frontend Mentor' rel='noreferrer' target="_blank">Frontend Mentor</a>. 
+          Coded by <a href="https://github.com/Ezmad-Ze/todo_app" aria-label='Frontend Mentor' rel='noreferrer' target="_blank">Ezmad_Ze</a>.
       </div>
     </div>
     </div>
