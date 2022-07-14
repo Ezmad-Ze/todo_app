@@ -43,8 +43,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Ezmad-Ze/todo_app)
-- Live Site URL: [](https://lovely-travesseiro-2d43d8.netlify.app/)
+- Solution URL: [Solution](https://github.com/Ezmad-Ze/todo_app)
+- Live Site URL: [Live](https://lovely-travesseiro-2d43d8.netlify.app/)
 
 ## My process
 
