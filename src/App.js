@@ -239,8 +239,8 @@ console.log();
       <div className="footer">
           <div className="info">Drag and drop to reorder list</div>
           <div className={theme===true ? 'attribution-light':'attribution-dark'}>
-          Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-          Coded by <a href="#">Ezmad_Ze</a>.
+          Challenge by <a href="https://www.frontendmentor.io?ref=challenge" aria-label='Frontend Mentor' rel='noopener' target="_blank">Frontend Mentor</a>. 
+          Coded by <a href="https://github.com/Ezmad-Ze/todo_app" aria-label='Frontend Mentor' rel='noopener' target="_blank">Ezmad_Ze</a>.
       </div>
     </div>
     </div>
